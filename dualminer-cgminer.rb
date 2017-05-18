@@ -1,6 +1,6 @@
 require 'formula'
 
-class Cgminer < Formula
+class DualminerCgminer < Formula
   homepage 'https://github.com/baseboxorg/dualminer-cgminer'
   head 'https://github.com/baseboxorg/dualminer-cgminer.git', :branch => 'master'
   url 'https://github.com/baseboxorg/dualminer-cgminer/archive/1.0.0.tar.gz'
